@@ -1,4 +1,4 @@
-# Project Name: Weather Analyzer
+# Project Name: Weather Analytics App
 
 ## Description
 This Python project, `final_main.py`, is designed to analyze weather data for a specific location and time period. The input parameters include the year/month and location for which you want to analyze the weather.
